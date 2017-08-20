@@ -1,3 +1,6 @@
+// Crux-3DS
+// © 2014-2017 Filiph Sandström
+
 #pragma once
 #include <iostream>
 #include <stdio.h>
@@ -5,4 +8,4 @@
 
 #include "controllers/DOMRenderer.hpp"
 
-#define DOWNLOADMII_PLATFORM_3DS
+#define PLATFORM_3DS
